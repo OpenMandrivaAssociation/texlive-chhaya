@@ -1,6 +1,6 @@
 Name:		texlive-chhaya
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Linguistic glossing in Marathi language
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chhaya
