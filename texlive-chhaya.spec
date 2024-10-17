@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Linguistic glossing in Marathi language
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chhaya
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/chhaya
 License:	gpl3+ other-free fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chhaya.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chhaya.doc.r%{version}.tar.xz
